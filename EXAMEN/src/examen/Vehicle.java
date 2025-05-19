@@ -15,4 +15,25 @@ class Vehicle {
         this.preu = preu;
     }
 
+    public int getAny() {
+        return any;
+    }
+
+    public String getMarca() {
+        return marca;
+    }
+
+    public String getMatricula() {
+        return matricula;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public double getPreu() {
+        return preu;
+    }
+    
+
 }
